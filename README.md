@@ -8,6 +8,9 @@ Python ile PDF dosyalarını İngilizce'den Türkçe'ye çeviren bir proje.
 - Unicode destekli PDF oluşturma
 - Türkçe karakter sorunu yok
 
-## Kurulum
+## Kullanım
+main.py dosyasında input_pdf dosya yolunu ve output_pdf dosya adını kendi pdf dosyanıza göre değiştirin ve main.py yi çalıştırın
+
+## Kütüphane Kurulum
 ```bash
 pip install pymupdf deep-translator reportlab
