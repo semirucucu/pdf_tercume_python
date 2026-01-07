@@ -11,6 +11,3 @@ Python ile PDF dosyalarını İngilizce'den Türkçe'ye çeviren bir proje.
 ## Kurulum
 ```bash
 pip install pymupdf deep-translator reportlab
-
-## Kullanım
-main.py dosyasında input_pdf dosya yolunu ve output_pdf dosya adını kendi pdf dosyanıza göre değiştirin ve main.py yi çalıştırın
